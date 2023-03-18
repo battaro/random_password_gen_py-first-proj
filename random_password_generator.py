@@ -41,5 +41,5 @@ print(final_password)
 #IDK if this is the best way to make a random password but put this in ur mind 
 #i programmed this cute programe in 1 hour and just in 6 days of learning python
 #u can use my code when u want and as u need not matter with me but
-#Program Developed buy Brimo Battaro :O
+#Program Developed by Brimo Battaro :O
 
